@@ -1,0 +1,22 @@
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.exe.config
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.exe
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.pdb
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.AssemblyReference.cache
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.SuggestedBindingRedirects.cache
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.Form1.resources
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.Properties.Resources.resources
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.GenerateResource.cache
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.CoreCompileInputs.cache
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.exe
+D:\Studio\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.exe.config
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\bin\Debug\SeverClientChat.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.AssemblyReference.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.SuggestedBindingRedirects.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.Form1.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.Properties.Resources.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.GenerateResource.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.csproj.CoreCompileInputs.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\SeverClientChat\SeverClientChat\obj\Debug\SeverClientChat.pdb
